@@ -29,11 +29,3 @@ To analyze sales performance over time, across regions, product categories, and 
 
 ---
 
-## 📷 Screenshots
-
-> *(Insert screenshots of your dashboard here using markdown image links)*
-
-```markdown
-![Category Breakdown](images/category_pie.png)
-![Monthly Trend](images/monthly_line.png)
-![Full Dashboard](images/full_dashboard.png)
