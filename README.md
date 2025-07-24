@@ -14,7 +14,7 @@ To analyze sales performance over time, across regions, product categories, and 
 
 - 📄 **Google Sheets** – Data cleaning, transformation (`month-year`, pivots)
 - 📊 **Google Data Studio (Looker Studio)** – Interactive dashboard design
-- 📁 CSV File – Raw dataset (optional upload)
+
 
 ---
 
